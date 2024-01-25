@@ -1,5 +1,7 @@
-# test_numbers_spec.rb
+#Тест задания 2
+
 require_relative 'task2' # Подключаем ваш файл с кодом, который вы хотите протестировать
+
 require 'rspec'
 
 describe Numbers do
